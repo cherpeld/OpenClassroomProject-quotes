@@ -1,0 +1,61 @@
+html {
+    background-color: #d5b59c;
+}
+
+h1.text-center{
+    margin: 0;
+    color: #411c0b;
+}
+ h2{
+     color: #411c0b;
+     text-align: center;
+ }
+.header{
+    background-color: #d5b59c;
+    padding: 5%;
+}
+
+img{
+    width: 30%;
+    height: auto;
+}
+
+img#gauche{
+    float: left;
+}
+
+img#droite{
+    float: right;
+}
+
+.middle{
+    margin: 0;
+    background-color: #d5b59c;
+    padding: 5%;
+}
+
+#number-citations{
+    display: block;
+    width: 10%;
+    padding: 0.375rem 0.75rem;
+    font-size: 1rem;
+    line-height: 1.5;
+    color: #495057;
+}
+
+.select-author{
+    padding: 3%;
+}
+
+.select-number{
+    padding-bottom: 2%;
+}
+
+#auteur-ow{margin-left: 10px}
+
+.citations{
+    background-color: #d5b59c;
+    text-align: center;
+}
+
+#reset{margin-left: 10px}
